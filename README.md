@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 🔭 I’m currently building APIs and Managing Cloud Infrastructure
+- 🔭 Building APIs and Managing Cloud Infrastructure
 - 🌱 I’m currently learning Internet Security
 - 💬 Ask me about Microservices and Distributed Systems
 - 📫 How to reach me: [obohedward@gmail.com](mailto:obohedward@gmail.com)
